@@ -1,0 +1,7 @@
+import cn.hutool.core.convert.impl.EnumConverter;
+public class FunctionUse1265 {
+public void funcUse() {
+EnumConverter enumconverter = new EnumConverter();
+enumconverter.convertInternal(null);
+}
+}

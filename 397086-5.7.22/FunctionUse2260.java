@@ -1,0 +1,6 @@
+import cn.hutool.core.exceptions.ValidateException;
+public class FunctionUse2260 {
+public void funcUse() {
+ValidateException validateexception = new ValidateException();
+}
+}
